@@ -41,7 +41,7 @@
        echo $arg2;
        echo "<br>";
        
-       echo "<h2>C Program Output (an array):</h2>";
+       echo "<h2>C Program Output:</h2>";
        foreach ($output as $line) {
          echo $line;
          echo "<br>";
