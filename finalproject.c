@@ -1,5 +1,4 @@
-#include <stdio.h>
-
+ #include <stdio.h>
 int main(int argc, char *argv[]) {
 	if (argc != 3) {
 		printf("%s : expected 2 args, please enter two integers\n", argv[0]);
